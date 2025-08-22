@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently pursuing Bechelors degree in Information Technology and I'm in my Junior year.
+I'm currently pursuing Bechelors degree in Information Technology and I'm in my final year.
 
 
 # 💻 Tech Stack:
