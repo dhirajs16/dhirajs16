@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm currently pursuing 📚 Bechelors degree in Information Technology and I'm in my final year ⚡.</p>
+<p align="left">📚 Bechelors in Information Technology (BIT) Graduate.⚡.</p>
 
 ###
 
